@@ -1,0 +1,79 @@
+[
+  {
+    "total_duration": 12,
+    "preparation_time": 5,
+    "cooking_time": 7,
+    "difficulty": "facile",
+    "budget": "5000",
+    "number_of_person": 5,
+    "ingredients": [
+      "farine",
+      "sucre",
+      "manioc"
+    ]
+  },
+  {
+    "total_duration": 34,
+    "preparation_time": 10,
+    "cooking_time": 14,
+    "difficulty": "difficile",
+    "budget": "10000",
+    "number_of_person": 15,
+    "ingredients": [
+      "riz",
+      "sel",
+      "poivre"
+    ]
+  },
+  {
+    "total_duration": 20,
+    "preparation_time": 15,
+    "cooking_time": 5,
+    "difficulty": "moyen",
+    "budget": "2500",
+    "number_of_person": 10,
+    "ingredients": [
+      "farine",
+      "sucre",
+      "beurre"
+    ]
+  },
+  {
+    "total_duration": 15,
+    "preparation_time": 5,
+    "cooking_time": 10,
+    "difficulty": "facile",
+    "budget": "5000",
+    "number_of_person": 5,
+    "ingredients": [
+      "farine",
+      "viande",
+      "lait"
+    ]
+  },
+  {
+    "total_duration": 50,
+    "preparation_time": 5,
+    "cooking_time": 45,
+    "difficulty": "facile",
+    "budget": "5000",
+    "number_of_person": 5,
+    "ingredients": [
+      "gros pois",
+      "sel",
+      "huille"
+    ]
+  },
+  {
+    "total_duration": 40,
+    "preparation_time": 5,
+    "cooking_time": 7,
+    "difficulty": "moyen",
+    "budget": "7000",
+    "number_of_person": 2,
+    "ingredients": [
+      "pois chiche",
+      "sel"
+    ]
+  }
+]

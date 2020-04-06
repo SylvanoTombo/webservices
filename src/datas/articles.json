@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "subcategory_id": 1,
+    "title": "3 recettes de popcorn super simples et originales",
+    "description": "Per guest prepare one quarter cup of peppermint tea with fluffed margerine for dessert.",
+    "type": "recette",
+    "tags": [1, 2, 3],
+    "mark": "La vache qui rit"
+  },
+  {
+    "id": 2,
+    "category_id": 2,
+    "subcategory_id": 2,
+    "title": "4 idées de jeux pour célébrer le retour des beaux jours",
+    "description": "Mild, hot pudding is best jumbled with fresh tea.",
+    "type": "recette",
+    "tags": [2, 4, 3],
+    "mark": "Yoplait"
+  },
+  {
+    "id": 3,
+    "category_id": 3,
+    "subcategory_id": 3,
+    "title": "Trèfle porte bonheur : tous les secrets de ses origine",
+    "description": "Crushed, shredded pudding is best brushed with smooth tea.",
+    "type": "recette",
+    "tags": [1, 5, 3],
+    "mark": "Cereal"
+  }
+]
